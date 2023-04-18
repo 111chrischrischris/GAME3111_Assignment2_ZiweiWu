@@ -1,0 +1,14 @@
+﻿  Camera.cpp
+  d3dApp.cpp
+C:\Users\Chris\Downloads\Game3111_Assignment2-main\Game3111_Assignment2\Common\d3dApp.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+  d3dUtil.cpp
+  DDSTextureLoader.cpp
+  GameTimer.cpp
+  GeometryGenerator.cpp
+  MathHelper.cpp
+  FrameResource.cpp
+  Waves.cpp
+  Generating Code...
+  Week7-2-TreeBillboardsApp.cpp
+C:\Users\Chris\Downloads\Game3111_Assignment2-main\Game3111_Assignment2\Common\d3dApp.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+  Game3111_Assignment2.vcxproj -> C:\Users\Chris\Downloads\Game3111_Assignment2-main\Game3111_Assignment2\Game3111_Assignment2\x64\Debug\Game3111_Assignment2.exe
